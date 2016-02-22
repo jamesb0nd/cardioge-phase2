@@ -33,7 +33,7 @@
                <string>BST</string>
                <!-- required.  the title to display during the download. -->
                <key>title</key>
-               <string>心心相赢</string>
+               <string>心心相赢测试版</string>
            </dict>
        </dict>
    </array>
